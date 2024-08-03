@@ -1,2 +1,2 @@
 # substitute-finder
-An ingredient substitute finder website 
+An ingredient substitute finder website.
